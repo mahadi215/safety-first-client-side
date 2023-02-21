@@ -1,0 +1,9 @@
+
+.blog-card:hover{
+ background-color: #daf2f0;
+ transition: 0.5s;
+
+}
+.tag-btn{
+    cursor: pointer;
+}

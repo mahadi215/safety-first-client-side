@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* ccustom color  */
+.my-btn{
+  background-color: cadetblue;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+.my-bg{
+  background-color: cadetblue;
+  color: white;
+}
